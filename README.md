@@ -13,4 +13,5 @@ I am not responsible for any repurcussions that others will face
 This project would not have been possible without the following platforms that I built on top of
 
 Melon Loader: https://github.com/LavaGang/MelonLoader
+
 Blaze ButtonAPI: https://github.com/WTFBlaze/BlazesButtonAPI
